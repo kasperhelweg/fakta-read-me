@@ -51,8 +51,6 @@ extending the Wp-list-table is a good idea.
 
 ######Staging environment
 http://fakta.molamil.com/dash/wp-login.php
-- user: faktaadm
-- pass: staging
 
 #####Folder structure
     /
